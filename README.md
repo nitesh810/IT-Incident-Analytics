@@ -1,6 +1,6 @@
 # 🚀 IT Incident Analytics – End-to-End Data Pipeline
 
-This project demonstrates a complete automated data pipeline built using **Google Cloud Platform (GCP)**, **Dataproc Serverless (PySpark)**,**Cloud Run Function**, **BigQuery**, and **Power BI**. The pipeline ingests incident CSV data, processes it, and visualizes insights in a real‑time dashboard.
+This project demonstrates a complete automated data pipeline built using **Google Cloud Platform (GCP)**, **Dataproc Serverless (PySpark)**, **Cloud Run Function**, **BigQuery**, and **Power BI**. The pipeline ingests incident CSV data, processes it, and visualizes insights in a real‑time dashboard.
 
 ---
 
