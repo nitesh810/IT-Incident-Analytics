@@ -4,6 +4,12 @@ This project demonstrates a complete automated data pipeline built using **Googl
 
 ---
 
+## 📌 Power BI Dashboard
+
+<img width="1919" height="744" alt="Incident-Analysis Dashboard" src="https://github.com/user-attachments/assets/a0b8ad16-74d7-4e42-8060-54ecd8354931" />
+
+---
+
 ## 📌 Architecture Overview
 
 ```text
