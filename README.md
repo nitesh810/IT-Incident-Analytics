@@ -82,8 +82,7 @@ it-incident-analytics/
 ├── sample_data/
 │   └── incident_sample.csv
 │
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
