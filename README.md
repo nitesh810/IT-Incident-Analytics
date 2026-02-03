@@ -3,6 +3,7 @@
 ## Project Overview
 This project implements a **serverless GCP data pipeline** to process incident data. It ingests CSV files from **Google Cloud Storage (GCS)**, cleans and transforms them using **PySpark on Dataproc Serverless**, and publishes **analytics-ready tables in BigQuery**. The pipeline follows the **Medallion Architecture** (Bronze → Silver → Gold) and includes data validation for reliable reporting.
 
+
 **Key Technologies:**  
 - Python, PySpark  
 - GCP: Cloud Run Gen2, Dataproc Serverless, BigQuery, Cloud Storage  
