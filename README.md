@@ -71,7 +71,7 @@ it-incident-analytics/
 │   └── incident_job.py            # PySpark transformations on Dataproc Serverless
 │
 ├── bigquery/
-	│   ├── tables/
+│	│   ├── tables/
 │   │   ├── bronze_incident.sql
 │   │   ├── silver_incident.sql
 │   │   └── gold_incident_kpi.sql
