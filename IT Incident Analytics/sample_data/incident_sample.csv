@@ -1,0 +1,11 @@
+incident_id,priority,category,sla_met
+1,High,Network,Yes
+2,Medium,Hardware,No
+3,Low,Software,Yes
+4,Medium,Network,Yes
+5,High,Software,No
+6,,Hardware,Yes
+7,Low,,No
+8,Medium,Network,Yes
+9,High,Software,Yes
+10,Medium,Network,No
